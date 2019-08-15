@@ -19,3 +19,11 @@ In order to standardize the quality of learning and create reliable community su
 [Chapter 1: Getting Started with the Machine Learning Pipeline](https://drive.google.com/file/d/1frWhXjrLk-k-Na8b2Anoee-RCViHWwDV/view?usp=sharing)
 
 [Chapter 2: Setting up your Learning Environment](https://docs.google.com/document/d/1LXpiQVURvVzXdsPYQQVBy2qugjjA28M1U8fMKfRtR5I/edit?usp=sharing)
+
+# Chapter 3: Python Cheat Sheet
+In this chapter we check to make sure your Python skills are up to par. This cheat sheet is very comprehensive and will be of great use to you whenever you program in Python. To access the cheat sheet, go to your Google Colab and import the notebook using the course url:
+
+https://github.com/Afferent-Learning/Intro-to-the-Machine-Learning-Pipeline
+
+
+**insert picture of colab**
