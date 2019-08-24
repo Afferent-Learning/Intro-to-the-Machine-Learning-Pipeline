@@ -24,8 +24,8 @@ This introductory curriculum gives developers a clear path to effectively perfor
   * (C14) MNIST Dataset Classification in TensorFlow
   * (C15) CIFAR-10 Dataset Classification in Keras
 - (S7) Training, Testing & Tuning
-  * (C16) Regression Models
-  * (C17) Convolutional Neural Networks
+  * (C16) Debugging Regression Models
+  * (C17) Debugging Convolutional Neural Networks
 - (S8) Sharing Our Results with Others
   * (C17) Repository Management in GitHub
   * (C18) Kaggle Competition Submissions
